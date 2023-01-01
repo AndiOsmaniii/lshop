@@ -4,6 +4,8 @@ body {
     background-color: snow;
     background-image: url("image.jpg");
     background-size: cover;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
   
 #list {
@@ -53,10 +55,36 @@ div {
     }
 }
 
-h1, h3 {
+#heading1, h3 {
     color: rgb(255, 255, 255);
 }
 
 #active {
     opacity: 0.5;
+}
+
+#bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    border: solid 2px #E1D7C6;
+    background-color: #E1D7C6;
+}
+
+#facebook {
+    float: right;
+    margin-left: auto;
+}
+
+#twitter {
+    margin-right: 5%;
+}
+
+a {
+    padding-top: 4vh;
+}
+
+#heading2 {
+    margin-left: 5%;
 }
