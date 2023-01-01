@@ -57,13 +57,13 @@ body {
 
 #text1 {
     font-size: 18px;
-    width: 200px;
+    width: 90%;
     padding-left: 4%;
 }
 
 #description1 {
     font-size: 14px;
-    width: 200px;
+    width: 90%;
     padding-left: 4%;
 }
 
@@ -87,13 +87,13 @@ body {
 
 #text2 {
     font-size: 18px;
-    width: 200px;
+    width: 90%;
     padding-left: 4%;
 }
 
 #description2 {
     font-size: 14px;
-    width: 200px;
+    width: 90%;
     padding-left: 4%;
 }
 
@@ -186,13 +186,11 @@ body {
     }
 
     #text1 {
-        width: 160px;
         font-size: 14px;
     }
 
     #description1 {
         font-size: 12px;
-        width: 160px;
     }
 
 
@@ -204,13 +202,11 @@ body {
     }
 
     #text2 {
-        width: 180px;
         font-size: 14px;
     }
 
     #description2 {
         font-size: 12px;
-        width: 160px;
     }
 
     #products {
@@ -241,13 +237,11 @@ body {
     }
 
     #text1 {
-        width: 160px;
         font-size: 14px;
     }
 
     #description1 {
         font-size: 12px;
-        width: 160px;
     }
 
 
@@ -259,13 +253,11 @@ body {
     }
 
     #text2 {
-        width: 180px;
         font-size: 14px;
     }
 
     #description2 {
         font-size: 12px;
-        width: 160px;
     }
 }
 
@@ -292,13 +284,11 @@ body {
     }
 
     #text1 {
-        width: 240px;
         font-size: 15px;
     }
 
     #description1 {
         font-size: 13px;
-        width: 200px;
     }
 
 
@@ -310,13 +300,11 @@ body {
     }
 
     #text2 {
-        width: 240px;
         font-size: 15px;
     }
 
     #description2 {
         font-size: 13px;
-        width: 200px;
     }
 }
 
